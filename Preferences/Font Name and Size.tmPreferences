@@ -9,9 +9,9 @@
 	<key>settings</key>
 	<dict>
 		<key>fontName</key>
-		<string>San Francisco</string>
+		<string>Menlo</string>
 		<key>fontSize</key>
-		<string>1.1em</string>
+		<string>1.0em</string>
 	</dict>
 	<key>uuid</key>
 	<string>FB5AC213-8C29-425A-8134-FD731C66A16E</string>
